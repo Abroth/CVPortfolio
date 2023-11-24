@@ -40,13 +40,13 @@ header{
 }
 
 .navbar a:hover,
-.navbar a.active{
+.navbar a:focus{
     color: #00abf0;
 }
 
 /* ============================FIN - NAVBAR=========================  */
 
-
+/* ===========================HOME - DESCRIPCION======================= */
 .home{
     height: 100vh;
     display: flex;
@@ -136,6 +136,10 @@ header{
     width: 100%;
 }
 
+/* =======================FIN - HOME - DESCRIPCION====================== */
+
+/* ==========================HOME - SOCIAL============================== */
+
 .home-sci{
     position: absolute;
     bottom: 40px;
@@ -180,3 +184,5 @@ header{
 .home-sci a:hover::before{
     width: 100%;
 }
+
+/* ==========================FIN - HOME - SOCIAL============================== */
