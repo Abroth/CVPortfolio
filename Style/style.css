@@ -193,7 +193,21 @@ header{
 /* ===========================Home Picture======================================= */
 
 .home-picture{
-    background-color: yellowgreen;
-    height: 100px;
-    width: 400px;
+    background-color: transparent;
+    height: 400px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-picture-img{
+    background-color: red;
+    height:370px;
+    width: 360px;
+}
+
+.home-picture-img img{
+    
+    
 }
