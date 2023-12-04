@@ -1,4 +1,3 @@
-function CalcularCI() {
-    let compras;
-    let ventas;
+const CalcularCI = function CalcularCI() {
+    
 }
