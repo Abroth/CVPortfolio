@@ -7,3 +7,5 @@ const CalcularCI = function CalcularCI() {
      }
 }
 
+console.log(CalcularCI);
+
