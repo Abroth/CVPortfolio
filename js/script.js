@@ -7,5 +7,7 @@ const CalcularCI = function CalcularCI() {
      }
 }
 
+const resultados = 40;;
+
 console.log(CalcularCI);
 
